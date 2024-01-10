@@ -32,6 +32,7 @@ stage('OWASP FS SCAN') {
             }
         }
 ```
+![image](https://github.com/Devnikops/Tetris-V1/assets/111847333/df6383c5-cdd3-4f25-a2ee-ebce942148d9)
 
 # ARGO CD SETUP
 https://archive.eksworkshop.com/intermediate/290_argocd/install/
